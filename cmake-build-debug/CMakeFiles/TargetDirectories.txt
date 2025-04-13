@@ -1,0 +1,3 @@
+C:/Users/rafal/OneDrive/Pulpit/StrukturyDanych/cmake-build-debug/CMakeFiles/StrukturyDanych.dir
+C:/Users/rafal/OneDrive/Pulpit/StrukturyDanych/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rafal/OneDrive/Pulpit/StrukturyDanych/cmake-build-debug/CMakeFiles/rebuild_cache.dir
