@@ -30,25 +30,6 @@ For all data structures:
 - `findElement(T element)`: Return the index of the first occurrence of an element, or -1 if not found.
 - `print()`: Print all elements.
 
-## Test Suite
-
-The `main.cpp` file contains three test functions:
-- `runScenarioForDoubleLinkedList()`: Tests the doubly linked list.
-- `runScenarioLinkedList()`: Tests the singly linked list.
-- `runScenarioDynamicArray()`: Tests the dynamic array.
-
-Each function performs 10 tests:
-1. Add to an empty structure (first position).
-2. Add to the first position.
-3. Add to the last position.
-4. Add to a specific index (middle).
-5. Add to an invalid index (handled differently by each structure).
-6. Remove from the first position.
-7. Remove from the last position.
-8. Remove from a specific index (middle).
-9. Find an existing element.
-10. Find a non-existent element.
-
 
 
 This project is licensed under the BeerWare License. See the https://pl.wikipedia.org/wiki/Beerware for details.
